@@ -13,9 +13,10 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: Through Facebook and Linkedin
 - 😄 Pronouns: Stubborn, Persever
 - ⚡ Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
-
+***
 ## Visit my Pages on the Internet !!
-[My Website](http://abhiramborige.me)
-[My Product Lander Page](https://borigeabhiram.gitlab.io/productlander)
+- [My Website](http://abhiramborige.me)
+- [My Product Lander Page](https://borigeabhiram.gitlab.io/productlander)
+***
 <img src="https://github-readme-stats.vercel.app/api?username=Abhiramborige&&show_icons=true&title_color=ff3333&icon_color=ff661a&text_color=0000e6&bg_color=66ff99">
 
