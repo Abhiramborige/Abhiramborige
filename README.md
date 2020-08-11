@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Webdevelopment
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Web related projects soon...
-- 🤔 I’m looking for help with enthuciasts like me
-- 💬 Ask me about any details that I am strong enough
-- 📫 How to reach me: Through Facebook and Linkedin
-- 😄 Pronouns: Stubborn, Persever
-- ⚡ Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
+- :computer: I’m currently working on Webdevelopment
+- :telescope: I’m currently learning JavaScript
+- :memo: I’m looking to collaborate on Web related projects soon...
+- :v::smiley: I’m looking for help with enthuciasts like me
+- :orange_book: Ask me about any details that I am strong enough
+- :mailbox_with_no_mail: How to reach me: Through Facebook and Linkedin
+- :stuck_out_tongue: Pronouns: Stubborn, Persever
+- :boom: Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
 ***
 ## Visit my Pages on the Internet !!
 - [My Website](http://abhiramborige.me "My Website")
