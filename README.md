@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - :memo: I’m looking to collaborate on Web related projects soon...
 - :v::smiley: I’m looking for help with enthuciasts like me
 - :orange_book: Ask me about any details that I am strong enough
-- :mailbox_with_no_mail: How to reach me: Through Facebook and Linkedin
+- :mailbox_with_no_mail::postbox: How to reach me: Through Facebook and Linkedin
 - :stuck_out_tongue: Pronouns: Stubborn, Persever
 - :boom: Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
 ***
