@@ -15,8 +15,8 @@ Here are some ideas to get you started:-->
 - :boom: Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
 ***
 ## Visit my Pages on the Internet !!
-[My Website](http://abhiramborige.me "My Website")
-[My Product Lander Page](https://borigeabhiram.gitlab.io/productlander "My Product Lander Page")
+- [My Website](http://abhiramborige.me "My Website")
+- [My Product Lander Page](https://borigeabhiram.gitlab.io/productlander "My Product Lander Page")
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=Abhiramborige&&show_icons=true&title_color=ff3333&icon_color=ff661a&text_color=0000e6&bg_color=66ff99">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramborige&layout=compact&&bg_color=cce6ff&text_color=004d4d&title_color=267326">
