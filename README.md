@@ -11,12 +11,11 @@ Here are some ideas to get you started:-->
 - :v::smiley: I’m looking for help with enthuciasts like me
 - :orange_book: Ask me about any details that I am strong enough
 - :mailbox_with_no_mail::postbox: How to reach me: Through Facebook and Linkedin
-- :stuck_out_tongue: Pronouns: Stubborn, Persever
 - :boom: Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
 ***
 ## Visit my Pages on the Internet !!
 - [My Website](http://abhiramborige.me "My Website")
-- [My Product Lander Page](https://borigeabhiram.gitlab.io/productlander "My Product Lander Page")
+- [Youtube !](https://www.youtube.com/channel/UCwePOfPVe_I6lrVObRGgfBA/ "Youtube Channel")
 ***
 <table>
   <tr>
