@@ -17,14 +17,5 @@ Here are some ideas to get you started:-->
 - [My Website](http://abhiramborige.me "My Website")
 - [Youtube !](https://www.youtube.com/channel/UCwePOfPVe_I6lrVObRGgfBA/ "Youtube Channel")
 ***
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhiramborige&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831">
-    </td>
-    <td>
-      <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramborige&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
-    </td>
-  </tr>
-</table>
-  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhiramborige&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831">
+<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramborige&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
