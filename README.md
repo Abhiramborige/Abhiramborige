@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - :computer: I’m currently working on Webdevelopment
-- :telescope: I’m currently learning ReactJS
+- :telescope: I’m currently learning DS
 - :memo: I’m looking to collaborate on Web related projects soon...
 - :v::smiley: I’m looking for help with enthuciasts like me
 - :orange_book: Ask me about any details that I am strong enough
