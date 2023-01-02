@@ -1,10 +1,10 @@
 ### Hi there 👋
-<div style="text-align: left">
+<div align="right" style="width:50%">
 
   ![](unnamed.gif)
   
  </div>
- <div style="text-align: right">
+ <div align="left" style="width:50%">
  
   - :computer: I’m currently working on Webdevelopment
   - :telescope: I’m currently learning DS
