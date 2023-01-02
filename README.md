@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div align="right" style="width:50%">
+<div align="left">
 
-  ![](unnamed.gif)
+  <img src="unnamed.gif" alt="binging..." width="40%"/>
   
  </div>
  <div align="left" style="width:50%">
@@ -9,9 +9,9 @@
   - :computer: I’m currently working on Webdevelopment
   - :telescope: I’m currently learning DS
   - :memo: I’m looking to collaborate on Web related projects soon...
-  - :v::smiley: I’m looking for help with enthuciasts like me
+  - :v: I’m looking for help with enthuciasts like me
   - :orange_book: Ask me about any details that I am strong enough
-  - :mailbox_with_no_mail::postbox: How to reach me: Through Facebook and Linkedin
+  - :postbox: How to reach me: Through Facebook and Linkedin
   - :boom: Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
   
  </div>
