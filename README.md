@@ -17,6 +17,7 @@
  </div>
 
 *** 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhiramborige&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramborige&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Abhiramborige?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Abhiramborige&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramborige&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8"> -->
 
