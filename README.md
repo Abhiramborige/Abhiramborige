@@ -6,12 +6,12 @@
  </div>
  <div align="left" style="width:50%">
  
-  - :computer: I’m currently working on Webdevelopment
-  - :telescope: I’m currently learning DS
-  - :memo: I’m looking to collaborate on Web related projects soon...
+  - :computer: I’m currently working on integrating AI with automation systems
+  - :telescope: I’m currently learning to build agentic AI systems
+  - :memo: I’m looking to collaborate on software related projects
   - :v: I’m looking for help with enthuciasts like me
   - :orange_book: Ask me about any details that I am strong enough
-  - :postbox: How to reach me: Through Facebook and Linkedin
+  - :postbox: How to reach me: You have already reached me!
   - :boom: Fun fact: Programming is something that comes with time and practice. And then suddenly the moments of "Hooray" start to outnumber the times that you are stuck.
   
  </div>
